@@ -1,0 +1,5 @@
+function createGameBoard() {
+    return {
+        gameBoard: []
+    }
+}
